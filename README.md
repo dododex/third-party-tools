@@ -1,2 +1,3 @@
-# third-party-tools
-Bots and third party Ark: Survival Evolved tools
+# ARK: Survival Evolved Discord Bots
+
+(Add here)
